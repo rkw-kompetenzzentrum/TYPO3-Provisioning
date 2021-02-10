@@ -1,0 +1,24 @@
+# Version 1.0.0
+# =======================================================
+# Ignore Editor-files, vendor and other basic stuff
+# =======================================================
+.DS_Store
+node_modules
+bower_components
+
+/.build
+/.buildpath
+/.bowerrc
+/.bundle
+/.env
+/.idea
+/.settings
+/.project
+/.php-version
+/vendor
+
+# =======================================================
+# Ignore config and dump-files
+# =======================================================
+/config.sh
+/dumps/*
